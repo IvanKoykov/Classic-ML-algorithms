@@ -1,1 +1,1 @@
-# Data-Science
+# Classic ML algorithms
